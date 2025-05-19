@@ -11,7 +11,7 @@
 #  From Hacker Rank                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 #------------------------------------------------------------------------------------------------------------
 
-# PYHTON COD 
+# PYHTON CODE 
 
 n = int(input("Enter a number : ")) 
 for i in  range(n): 
