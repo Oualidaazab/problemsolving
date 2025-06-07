@@ -1,3 +1,8 @@
+#***************************************************\ 
+#  FROM HACKERRANK                                  |
+#**************************************************/
+
+
 if __name__ == '__main__':
     n = int(input("Enter how many student in this class :"))
     student_marks = {}
