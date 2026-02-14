@@ -51,7 +51,7 @@ for i in range(1,11) :
 """
 import os 
 print(dir(os)) 
-print(os.system("ping 19"))
+print(os.system("ping 8.8.8.8")) #ping server DNS google server 
 """  
 def factorielle(n):
     result = 1
